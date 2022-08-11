@@ -28,3 +28,5 @@ ggplot(esp, aes( x = CountryCode, y=Percentage, fill = IsOfficial )) +
   geom_bar (stat="identity")  +
   coord_flip()
 
+
+#cambio prueba
